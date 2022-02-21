@@ -2,7 +2,7 @@
 #EXTM3U 
 
 
-#EXTINF:-1 tvg-id="" tvg-country="AR" tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd" group-title="NOTICIAS", IP  24.5 
+#EXTINF:-1 tvg-id="" tvg-country="AR" tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd" group-title="NOTICIAS", IP NOTICIAS 
 https://octubre-live.cdn.vustreams.com/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
 
 
